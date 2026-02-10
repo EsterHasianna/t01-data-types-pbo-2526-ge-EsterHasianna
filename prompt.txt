@@ -1,0 +1,5 @@
+1.DILARANG menggunakan long, BigInteger, atau try-catch untuk mendeteksi overflow. Coba jelaskan ini kepada saya
+2.Jadi ini adalah soalnya coba kamu berikan penjelasan kepada saya agar saya mengerti yang diminta
+3.jadi coba berikan kode nya dimana dia saatu compailer
+4.jelaskan secara detail  fungsi apa saja yg ada didalam nya
+5.apakah code saya sudh benar?
